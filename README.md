@@ -1,4 +1,4 @@
-# <p align="center" color="red">Trần Ngọc Tiến</p>
+# <p align="center" color="red"> Nguyễn Ngọc Trí</p>
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
